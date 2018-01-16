@@ -4,7 +4,7 @@ using UnityEngine;
 
 
 
-public class 1: MonoBehaviour
+public class JumpCtrl : MonoBehaviour
 
 {
 
