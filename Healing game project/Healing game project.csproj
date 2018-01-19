@@ -222,7 +222,6 @@
     <Compile Include="Assets\1.cs" />
     <Compile Include="Assets\jump.cs" />
     <Compile Include="Assets\NewBehaviourScript.cs" />
-    <Compile Include="Assets\NewBehaviourScript1.cs" />
     <Compile Include="Assets\NewBehaviourScript2.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

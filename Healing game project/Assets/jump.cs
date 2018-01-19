@@ -32,7 +32,7 @@ void Start()
 
     _gravity = 9.8f;
 
-    _jumpPower = 15.0f;
+    _jumpPower = 3.0f;
 
     _jumpTime = 0.0f;
 
