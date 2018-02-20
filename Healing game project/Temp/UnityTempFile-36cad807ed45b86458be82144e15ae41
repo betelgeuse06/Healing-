@@ -155,7 +155,10 @@
 -define:ENABLE_NATIVE_ARRAY_CHECKS
 -define:UNITY_TEAM_LICENSE
 -define:ENABLE_VSTU
+Assets/1.cs
+Assets/jump.cs
 Assets/NewBehaviourScript.cs
+Assets/NewBehaviourScript2.cs
 -r:D:\MonoDevelop\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll
 -r:D:\MonoDevelop\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll
 -r:D:\MonoDevelop\Editor\Data\Mono\lib\mono\unity\UnityScript.dll
